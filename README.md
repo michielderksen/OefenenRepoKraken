@@ -6,6 +6,12 @@ Correctie, prive Michiel heeft niet een blauwe stip als Avatar, maar een "alien"
 Nu weer vanaf Safan Michiel Avatar een opmerking als test, direct in de Main branch.
 
 Feature 1 toevoegen x.
+Feature A.
+Feature A.1
+Feature A.x
 Feature B.
 Feature B.x
+Feature B.x.1
+Feature B.x.1
 Feature B.x.2
+Feature B.y
