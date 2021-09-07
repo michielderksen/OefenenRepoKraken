@@ -12,5 +12,6 @@ Feature A.x
 Feature B.
 Feature B.x
 Feature B.x.1
+Feature B.x.1
 Feature B.x.2
 Feature B.y
